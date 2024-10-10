@@ -9,3 +9,4 @@ export function createDivClass(div_class_name){
     div.classList.add(div_class_name);
     return div;
 };
+

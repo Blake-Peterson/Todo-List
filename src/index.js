@@ -22,6 +22,8 @@ function main(){
     const content = createContent();
     container.appendChild(content);
 
+    console.log(getProjectList);
+
 }
 
 main();
